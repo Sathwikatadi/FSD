@@ -1,0 +1,44 @@
+
+
+  body{
+    margin: 0%;
+    background-color: rgb(178 187 191);
+  }
+H1{
+    text-align: center;
+}
+#div_1{
+    height: 219px;
+    background-color: rgb(242, 244, 253);
+    margin: 125px;
+    padding: 70px;
+    border-radius: 7px;
+}
+#text_1{
+    margin-left: 211px;
+    margin-top: -326px;
+    text-align: justify;
+}
+#back_image{
+    height: 300px;
+    width: 300px;
+    background-image: url("https://tse4.mm.bing.net/th?id=OIP.u0uaq6ld69ct5lVjZkbhlwHaLG&pid=Api&P=0&h=180");
+    background-repeat: no-repeat;
+     margin-left: -99px;
+    margin-top :-21px;
+    background-position-x: 51px;
+    background-position-y:-13px;
+    background-size: contain;
+    
+}
+
+#brace_1{
+    margin-left: 338px;
+}
+#brace_2{
+    margin-left: 338px;
+}
+.tab{
+    margin-left: 116px;;
+   
+}
